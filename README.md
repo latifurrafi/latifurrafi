@@ -1,17 +1,18 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Mariadb](https://img.shields.io/badge/Mariadb-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Manjaro](https://img.shields.io/badge/Manjaro-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
+
 
 I am a **Backend-Focused Web Developer** with a passion for crafting scalable and efficient solutions. I specialize in backend development, database management, and exploring the exciting fields of Machine Learning and Data Science. 🚀
 
@@ -27,24 +28,16 @@ Currently open to work and employment opportunities. 💼
 
 ---
 
-![Latifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=latifurrafi&show_icons=true&hide=stars&theme=radical)  
+### Numbers
+![Latifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=latifurrafi&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
+![Latifur's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=latifurrafi&theme=darcula&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=latifurrafi&theme=darcula&hide_border=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latifurrafi&layout=compact&theme=radical)
-
-
-## 🛠️ **Tech Stack**
-**Languages:** Python, JavaScript, C, C++  
-**Frameworks:** Django  
-**Databases:** MySQL, SQLite, MariaDB  
-**Frontend:** HTML5, CSS3, React  
-**Tools:** Git, VSCode, Adminer  
+![Latifur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latifurrafi&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
+
 ## 📫 **Where to Find Me**
-- **Email:** [latifurrafi@gmail.com](mailto:latifurrafi@gmail.com)  
-- **LinkedIn:** [Md. Latifur Rahman Rafi](https://www.linkedin.com/in/md-latifur-rahman-rafi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-latifur-rahman-rafi)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+
