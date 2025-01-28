@@ -1,4 +1,8 @@
 # Hi there! 👋 Welcome to my GitHub Profile
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=latifurrafi&label=Profile%20views&color=0e75b6&style=flat" alt="latifurrafi" /> 
+</p>
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
