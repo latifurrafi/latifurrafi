@@ -1,5 +1,4 @@
-# Hi there! 👋 Welcome to my GitHub Profile  <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=latifurrafi&label=Profile%20views&color=0e75b6&style=flat" alt="latifurrafi" /> 
+# Hi there! 👋 Welcome to my GitHub Profile  <p align="right"> <img src="https://komarev.com/ghpvc/?username=latifurrafi&label=Profile%20views&color=0e75b6&style=flat" alt="latifurrafi" /> 
 </p>
 
 
