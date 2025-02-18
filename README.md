@@ -22,11 +22,11 @@ Currently open to work and employment opportunities. 💼
 
 ---
 
-## 📜 **About Me**
-- 🎓 Proficient in **Python**, **Django**, and various databases like **MySQL**, **MariaDB**, and **SQLite**.
-- 🌱 Currently exploring **Machine Learning** and **Data Science**.
-- 🖥️ Experienced with **Linux (Manjaro/Arch)** distributions and software development tools.
-- 📚 Always learning to stay updated with the latest technologies.
+## 📜 **More**
+- Proficient in **Python**, **Django**, and various databases like **MySQL**, **MariaDB**, and **SQLite**.
+- Currently exploring **Machine Learning** and **Data Science**.
+- Experienced with **Linux (Manjaro/Arch)** distributions and software development tools.
+- Always learning to stay updated with the latest technologies.
 
 ---
 
