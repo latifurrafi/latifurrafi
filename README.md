@@ -24,7 +24,7 @@ Currently open to work and employment opportunities. 💼
 
 ## 📜 **More**
 - Proficient in **Python**, **Django**, and various databases like **MySQL**, **MariaDB**, and **SQLite**.
-- Currently exploring **Machine Learning** and ** Artificial Intelligence**.
+- Currently exploring **Machine Learning** and **Artificial Intelligence**.
 - Experienced with **Linux (Manjaro/Arch)** distributions and software development tools.
 - Always learning to stay updated with the latest technologies.
 
