@@ -16,7 +16,7 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
 
 
-I am a **Backend-Focused Web Developer** with a passion for crafting scalable and efficient solutions. I specialize in backend development, database management, and exploring the exciting fields of Machine Learning and Data Science. 🚀
+I am a **Backend-Focused Web Developer** with a passion for crafting scalable and efficient solutions. I specialize in backend development, database management, and exploring the exciting fields of Machine Learning and Artificial Intelligence.🚀
 
 Currently open to work and employment opportunities. 💼  
 
@@ -24,7 +24,7 @@ Currently open to work and employment opportunities. 💼
 
 ## 📜 **More**
 - Proficient in **Python**, **Django**, and various databases like **MySQL**, **MariaDB**, and **SQLite**.
-- Currently exploring **Machine Learning** and **Data Science**.
+- Currently exploring **Machine Learning** and ** Artificial Intelligence**.
 - Experienced with **Linux (Manjaro/Arch)** distributions and software development tools.
 - Always learning to stay updated with the latest technologies.
 
